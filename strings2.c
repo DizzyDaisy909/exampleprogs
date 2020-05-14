@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-char * name = "Daisy Elise Smith";
+char * name = "Daisy";
 int age = 16;
 
 //prints the name and age listed in the code above.
